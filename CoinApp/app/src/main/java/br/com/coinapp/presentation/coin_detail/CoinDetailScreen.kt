@@ -95,7 +95,8 @@ fun CoinDetailScreen(
                     Spacer(modifier = modifier.height(15.dp))
                     Text(
                         text = "Team members",
-                        style = MaterialTheme.typography.h5
+                        style = MaterialTheme.typography.h5,
+                        color = MaterialTheme.colors.surface
                     )
                     Spacer(modifier = modifier.height(15.dp))
                 }
@@ -106,7 +107,9 @@ fun CoinDetailScreen(
                             .fillMaxWidth()
                             .padding(10.dp)
                     )
-                    Divider()
+                    Divider(
+                        color = Color.DarkGray
+                    )
                 }
             }
         }
