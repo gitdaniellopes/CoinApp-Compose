@@ -2,7 +2,7 @@
 Aplicativo listar todas as moedas de bitcoin e seus detalhes.
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260">
+<img src="https://user-images.githubusercontent.com/26637908/173890787-51832090-9c0c-46cd-abb9-cc5f74c40ea7.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/26637908/173890800-133206b5-e11b-4b70-917c-fa6c9293993b.png" width="260">
 
 ## :bulb: Motivação
 
@@ -20,10 +20,12 @@ Procuramos utilizar as tecnologias mais pedidas em alguma das vagas para desenvo
 * State
 
 ## License
+
 ```
 The MIT License (MIT)
 
 Copyright (c) 2021 Dev Vai Longe
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
