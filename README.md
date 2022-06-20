@@ -10,7 +10,7 @@ A motivação desse projeto foi colocar em pratica a Clean Architecture - Use ca
 do Android.
 
 ## Tecnologias
-Procuramos utilizar as tecnologias mais pedidas em alguma das vagas para desenvolvimento Android no mercado de trabalho.
+Procurei utilizar as tecnologias mais pedidas em alguma das vagas para desenvolvimento Android no mercado de trabalho.
 * 100% Kotlin
 * Retrofit
 * View Model
